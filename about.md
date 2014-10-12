@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Stud. Polyt.(C. Networktechnology and IT) @ Technical University of Denmark
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+Most of my hours are used studying Networktechnology and IT, but I have a thing for making small weird projects that tend to grow in size.
+One day I got a breadboard and som LEDs and now I have 5m of RGB-LED-strips setup in my small dorm room.. I'd be suprised if it's the last weird project I'll do.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cmol@cmol.me](mailto:cmol@cmol.me) (Does not yet exist)
