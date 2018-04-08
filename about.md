@@ -4,13 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Stud. Polyt.(C. Networktechnology and IT) @ Technical University of Denmark
+Stud. MSc.ENG Telecommunication (2016-2018) @ Technical University of Denmark
 
 ### More Information
 
-Most of my hours are used studying Networktechnology and IT, but I have a thing for making small weird projects that tend to grow in size.
-One day I got a breadboard and som LEDs and now I have 5m of RGB-LED-strips setup in my small dorm room.. I'd be suprised if it's the last weird project I'll do.
+Collaborative engineering student with a flair for all things internet
+and their implementations. A strong background in Linux and experience
+working with digital communication in various ways. Interests lie in
+complex networks, mobile communication, OpenSource development, maker
+spaces, network protocols, and data mining. Good theoretical background,
+but not afraid of practical work. Works great independently as well as
+in teams. Social and outgoing.
 
 ### Contact me
 
-[cmol@cmol.me](mailto:cmol@cmol.me) (Does not yet exist)
+[cmol@cmol.dk](mailto:cmol@cmol.dk)
